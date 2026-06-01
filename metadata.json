@@ -1,0 +1,6 @@
+{
+  "name": "AI Code Reviewer",
+  "description": "An AI-powered code auditing companion with bug detection, security audits, performance improvements, and code quality scoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
